@@ -1,0 +1,29 @@
+elements:
+  kill:
+    type: KILL
+    coins: 20
+    experience: 20
+  final-kill:
+    type: FINAL_KILL
+    coins: 40
+    experience: 40
+  break-bed:
+    type: BREAK_BED
+    coins: 100
+    experience: 100
+  pickup-diamond:
+    type: PICKUP_DIAMOND
+    coins: 20
+    experience: 20
+  pickup-emerald:
+    type: PICKUP_EMERALD
+    coins: 40
+    experience: 40
+  play-a-game:
+    type: PLAY_A_GAME
+    coins: 100
+    experience: 100
+  win-a-game:
+    type: WIN_A_GAME
+    coins: 100
+    experience: 100

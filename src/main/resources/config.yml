@@ -1,0 +1,16 @@
+Database:
+  ip: 127.0.0.1
+  port: 3306
+  database: bedwars
+  username: root
+  password: 123456
+setup: true
+select-team: true
+start-time: 20
+start-players: 8
+game-teams: 4 #暂时只支持4以内的队伍数
+players-per-team: 4 #4v4v4v4
+server-joiner: bedwars4v4
+game-mode: NORMAL #NORMAL(普通), RUSH(极速), LUCKY_BLOCK(幸运方块), MEGA_WALLS(超级战墙), ULTIMATES(超能力), GUN(枪械);
+lobbies:
+  -

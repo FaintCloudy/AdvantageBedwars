@@ -1,0 +1,5 @@
+name: AdvantageBedwars
+version: 1.0.1
+author: FaintCloudy
+main: me.faintcloudy.bedwars.Bedwars
+depend: [LuckPerms, Citizens, ProtocolLib]
